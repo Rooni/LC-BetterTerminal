@@ -1,0 +1,9 @@
+{
+    "name": "BetterTerminal",
+    "version_number": "0.1.1",
+    "website_url": "https://github.com/Rooni/LC-BetterTerminal",
+    "description": "A lethal company mod for quality of life improvements on the terminal.",
+    "dependencies": [
+      "BepInEx-BepInExPack-5.4.2100"
+    ]
+}
